@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "La Incondicional",
+  "base_artist": "Luis Miguel",
+  "createdAt": "2026-02-13T04:19:59.544928Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "La Incondicional",
+      "artist": "Luis Miguel",
+      "has_synced": true,
+      "path": "select/01_La_Incondicional_Luis_Miguel.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "La Incondicional",
+      "artist": "Benjamin Ingrosso feat. Omar Rudberg",
+      "has_synced": true,
+      "path": "select/02_La_Incondicional_Benjamin_Ingrosso_feat._Omar_Rudberg.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "La Incondicional",
+      "artist": "Benjamin Ingrosso",
+      "has_synced": true,
+      "path": "select/03_La_Incondicional_Benjamin_Ingrosso.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "La Incondicional",
+      "artist": "Luis Miguel",
+      "has_synced": true,
+      "path": "select/04_La_Incondicional_Luis_Miguel.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "La Incondicional",
+      "artist": "Luis Miguel",
+      "has_synced": true,
+      "path": "select/05_La_Incondicional_Luis_Miguel.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Medley (Yo Que No Vivo Sin Ti / Culpable O No / Más Allá De Todo / Fría Como El Viento / Entrégate /Tengo Todo Excepto A Ti / La Incondicional) - En Vivo",
+      "artist": "Luis Miguel",
+      "has_synced": true,
+      "path": "select/06_Medley_(Yo_Que_No_Vivo_Sin_Ti___Culpable_O_No___Más_Allá_De_Todo___Fría_Como_El__Luis_Miguel.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "La Incondicional",
+      "artist": "Luis Miguel",
+      "has_synced": true,
+      "path": "select/07_La_Incondicional_Luis_Miguel.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "La Incondicional",
+      "artist": "Sergio Vargas",
+      "has_synced": true,
+      "path": "select/08_La_Incondicional_Sergio_Vargas.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "La Incondicional",
+      "artist": "La Dame Blanche",
+      "has_synced": true,
+      "path": "select/09_La_Incondicional_La_Dame_Blanche.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "La Incondicional",
+      "artist": "Luis Miguel",
+      "has_synced": true,
+      "path": "select/10_La_Incondicional_Luis_Miguel.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "La Incondicional",
+      "artist": "Diego Boneta",
+      "has_synced": true,
+      "path": "select/11_La_Incondicional_Diego_Boneta.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "La Incondicional - From Benjamin's",
+      "artist": "Benjamin Ingrosso, Omar Rudberg",
+      "has_synced": true,
+      "path": "select/12_La_Incondicional_-_From_Benjamin's_Benjamin_Ingrosso,_Omar_Rudberg.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "La Incondicional",
+      "artist": "Noel Schajris",
+      "has_synced": true,
+      "path": "select/13_La_Incondicional_Noel_Schajris.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "La Incondicional",
+      "artist": "Luis Miguel",
+      "has_synced": true,
+      "path": "select/14_La_Incondicional_Luis_Miguel.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "La Incondicional",
+      "artist": "Deiner Florez",
+      "has_synced": true,
+      "path": "select/15_La_Incondicional_Deiner_Florez.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "La Incondicional",
+      "artist": "Luis Miguel",
+      "has_synced": false,
+      "path": "select/pl_01_La_Incondicional_Luis_Miguel.txt"
+    }
+  ]
+}
